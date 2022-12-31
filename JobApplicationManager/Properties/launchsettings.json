@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "JobApplicationManager (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "JobApplicationManager (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

@@ -1,0 +1,8 @@
+* Check if all code is documented
+* Check the GPL-Header year
+* Update documentation
+* Update Projectfile (versions)
+* Add release to CHANGELOG.md
+* Set a git tag vor the release
+* Add package to the Github Release Assets and Microsoft Store
+* Write release blog post
