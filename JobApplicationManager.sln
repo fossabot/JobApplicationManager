@@ -9,6 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobApplicationManager.Core"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JobApplicationManager.Tests.MSTest", "JobApplicationManager.Tests.MSTest\JobApplicationManager.Tests.MSTest.csproj", "{2E940063-0ED1-4A3C-8FBA-DAD65F46E521}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{8F0AFBC5-E24F-4BE6-9850-05F796CDC23F}"
+	ProjectSection(SolutionItems) = preProject
+		CHANGELOG.md = CHANGELOG.md
+		CONTRIBUTING.md = CONTRIBUTING.md
+		MAINTENANCE.md = MAINTENANCE.md
+		README.md = README.md
+		RELEASEDOC.txt = RELEASEDOC.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

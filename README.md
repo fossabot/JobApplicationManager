@@ -1,6 +1,6 @@
 # Job Application Manager
 
-<img src="https://dev.azure.com/saigkill/fdc6f070-5933-4644-857b-7e13ee42fada/_apis/git/repositories/48bf4007-ec12-45cf-96e2-fe457131c1b7/items?path=/JobApplicationManager/Assets/SplashScreen.scale-400.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=develop&resolveLfs=true&%24format=octetStream&api-version=5.0" align="center" alt="logo" width="500"/>
+<img src="https://github.com/saigkill/JobApplicationManager/raw/main/JobApplicationManager/Assets/images/JobApplicationManager.png" align="center" alt="logo" width="500"/>
 
 ## DESCRIPTION
 
@@ -10,23 +10,24 @@ The `CHANGELOG.md` file contains a detailed description of what has been changed
 
 Latex Curriculum Vitae is released under the GPL3 License, see the file `LICENSE.md` for more information.
 
-|What|Where|
+What|Where|
 |-----|-------------------------------------------------------------------------------------|
-|Code  | (https://dev.azure.com/saigkill/JobApplicationManager/_git/JobApplicationManager) |
-|Docs | (https://saigkill.github.io/latex_curriculum_vitae-dotnet/) |
-|Bugs & feature requests  | (https://dev.azure.com/saigkill/JobApplicationManager/_workitems/recentlyupdated/) |
-|Openhub statistics | (https://openhub.net/p/JobApplicationManager) |
-|The author's blog | (http://saschamanns.de) |
+|Code  | [https://github.com/saigkill/JobApplicationManager] |
+|Bugs & feature requests  | [https://github.com/saigkill/JobApplicationManager/issues] |
+|The author's blog | [http://saschamanns.de] |
 
 | What | Status |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Code quality | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=saigkill_JobApplicationManager&metric=alert_status)](https://sonarcloud.io/dashboard?id=saigkill_JobApplicationManager)
-|Continuous integration Dev | [![Build Status](https://dev.azure.com/saigkill/JobApplicationManager/_apis/build/status/JobApplicationManager-.NET%20Desktop-CI-develop?branchName=develop)](https://dev.azure.com/saigkill/JobApplicationManager/_build/latest?definitionId=44&branchName=develop) |
-|Continuous integration Prod | [![Build Status](https://dev.azure.com/saigkill/JobApplicationManager/_apis/build/status/JobApplicationManager-.NET%20Desktop-CI-master?branchName=master)](https://dev.azure.com/saigkill/JobApplicationManager/_build/latest?definitionId=40&branchName=master) |
-|Open Issues Github | ![GitHub issues](https://img.shields.io/github/issues/saigkill/JobApplicationManager) |
-|Open Issues Azure | [![Board Status](https://dev.azure.com/saigkill/fdc6f070-5933-4644-857b-7e13ee42fada/fc89a74c-8881-4092-8f33-8f1750ef7db0/_apis/work/boardbadge/fc52696a-9a9e-461d-bee2-8e0b7d36ad7c)](https://dev.azure.com/saigkill/fdc6f070-5933-4644-857b-7e13ee42fada/_boards/board/t/fc89a74c-8881-4092-8f33-8f1750ef7db0/Stories/)|
+|Code quality Codeclimate | [![Maintainability](https://api.codeclimate.com/v1/badges/e6165bf69fa46ec2be8d/maintainability)](https://codeclimate.com/github/saigkill/JobApplicationManager/maintainability) |
+|Code coverage Codeclimate | [![Test Coverage](https://api.codeclimate.com/v1/badges/e6165bf69fa46ec2be8d/test_coverage)](https://codeclimate.com/github/saigkill/JobApplicationManager/test_coverage)
+|Continuous integration | [![.NET](https://github.com/saigkill/JobApplicationManager/actions/workflows/dotnet.yml/badge.svg)](https://github.com/saigkill/JobApplicationManager/actions/workflows/dotnet.yml) |
+|Security check CodeQL | ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/saigkill/JobApplicationManager/codeql.yml) |
+|Security check Snyk | [![Known Vulnerabilities](https://snyk.io/test/github/saigkill/JobApplicationManager/badge.svg)](https://snyk.io/test/github/saigkill/JobApplicationManager) |
+|License check | [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager?ref=badge_small) |
+|Open Issues | ![GitHub issues](https://img.shields.io/github/issues/saigkill/JobApplicationManager) |
+|Open Pull Request | ![Pull Requests](https://img.shields.io/github/issues-pr/saigkill/JobApplicationManager) |
 |Conventional commits | [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) |
-|License | ![GitHub](https://img.shields.io/github/license/saigkill/latex_curriculum_vitae-dotnet) |
+|License | ![GitHub](https://img.shields.io/github/license/saigkill/JobApplicationManager) |
 |Downloads|![GitHub All Releases](https://img.shields.io/github/downloads/saigkill/JobApplicationManager/total)|
 
 ## FEATURES
