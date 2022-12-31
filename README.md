@@ -21,6 +21,7 @@ Latex Curriculum Vitae is released under the GPL3 License, see the file `LICENSE
 | What | Status |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Code quality | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=saigkill_JobApplicationManager&metric=alert_status)](https://sonarcloud.io/dashboard?id=saigkill_JobApplicationManager)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager?ref=badge_shield)
 |Continuous integration Dev | [![Build Status](https://dev.azure.com/saigkill/JobApplicationManager/_apis/build/status/JobApplicationManager-.NET%20Desktop-CI-develop?branchName=develop)](https://dev.azure.com/saigkill/JobApplicationManager/_build/latest?definitionId=44&branchName=develop) |
 |Continuous integration Prod | [![Build Status](https://dev.azure.com/saigkill/JobApplicationManager/_apis/build/status/JobApplicationManager-.NET%20Desktop-CI-master?branchName=master)](https://dev.azure.com/saigkill/JobApplicationManager/_build/latest?definitionId=40&branchName=master) |
 |Open Issues Github | ![GitHub issues](https://img.shields.io/github/issues/saigkill/JobApplicationManager) |
@@ -55,3 +56,7 @@ Installation is very easy:
     Doubleclick on it
 
 To view the complete Installation Guide, you can find the project documentation [here.](https://saigkill.github.io/latex_curriculum_vitae-dotnet/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaigkill%2FJobApplicationManager?ref=badge_large)
